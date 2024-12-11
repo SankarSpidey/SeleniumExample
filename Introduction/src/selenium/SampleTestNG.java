@@ -31,7 +31,7 @@ public class SampleTestNG {
 		System.out.println("third");
 		System.out.println("third1");
 		System.out.println("third2");
-		System.out.println("Check");
+		System.out.println("done");
 
 
 
