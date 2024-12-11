@@ -8,8 +8,9 @@ public class SampleTestNG {
 	public void firstTest() {
 
 		System.out.println("First");
-		ystem.out.println("First1");
-		ystem.out.println("First2");
+		System.out.println("First1");
+		System.out.println("First2");
+
 
 	}
 	
