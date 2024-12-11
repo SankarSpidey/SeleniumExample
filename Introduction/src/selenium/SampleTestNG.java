@@ -6,7 +6,11 @@ public class SampleTestNG {
 	
 	@Test
 	public void firstTest() {
+
 		System.out.println("First");
+		ystem.out.println("First1");
+		ystem.out.println("First2");
+
 	}
 	
 	@Test
