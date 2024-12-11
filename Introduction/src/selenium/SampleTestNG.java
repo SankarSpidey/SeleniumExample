@@ -28,6 +28,9 @@ public class SampleTestNG {
 	@Test
 	public void thirdTest() {
 		System.out.println("third");
+		System.out.println("third1");
+		System.out.println("third2");
+		
 	}
 	
 	@Test
