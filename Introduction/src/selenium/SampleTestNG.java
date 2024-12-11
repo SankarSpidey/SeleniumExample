@@ -16,7 +16,13 @@ public class SampleTestNG {
 	
 	@Test
 	public void secondTest() {
+
 		System.out.println("Second");
+		System.out.println("Second1");
+		System.out.println("Second2");
+
+
+
 	}
 	
 	@Test
